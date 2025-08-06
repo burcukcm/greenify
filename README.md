@@ -9,7 +9,6 @@ Günlük hayatta bitki bakımını unutan ya da takip etmekte zorlanan kullanıc
 ---
 
 ## Şu Ana Kadar Tamamlananlar
-
 - Kullanıcı girişi ve kayıt işlemleri (Firebase Authentication ile)
 - Giriş yapan kullanıcıya özel bitki listesi oluşturma
 - Bitki ekleme ekranı ve form doğrulama işlemleri
@@ -19,7 +18,6 @@ Günlük hayatta bitki bakımını unutan ya da takip etmekte zorlanan kullanıc
 ---
 
 ##  Planlanan Özellikler
-
 - Bitki düzenleme ve silme
 - Bildirim sistemi (sulama zamanı hatırlatma)
 - Bitkilere fotoğraf ve bakım notu ekleme
@@ -29,15 +27,10 @@ Günlük hayatta bitki bakımını unutan ya da takip etmekte zorlanan kullanıc
 
 
 ## Kullanılan Teknolojiler
-
 - Flutter & Dart  
 - Firebase Authentication  
 - MVVM mimarisi  
 - State management (şimdilik basit düzeyde; ileride Bloc veya Provider planlanıyor)
 
----
 
-## 📌 Not
-
-Greenify şu anda aktif geliştirme sürecindedir. Uygulama ilerledikçe bu belge güncellenmeye devam edecek.
 
